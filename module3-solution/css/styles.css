@@ -4,6 +4,7 @@ body {
 
 #main-content {
     margin: 0 15px;
+    padding-bottom: 17px;
 }
 
 #menu-title {
@@ -59,6 +60,5 @@ section > h2 {
    .navbar-toggle.collapsed .icon-bar {
         background-color: #000;
    }
-
 
 }
